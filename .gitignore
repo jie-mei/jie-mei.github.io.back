@@ -1,2 +1,7 @@
-_site/
+.bundle/
+.git/
+.jekyll-cache/
 .sass-cache/
+.vendor/
+_site/
+.DS_Store
